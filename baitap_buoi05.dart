@@ -2,12 +2,10 @@ import 'dart:io';
 
 void main(List<String> args) {
   // Bài tập quản lý sinh viên
-  // quanLiSinhVien();
+  quanLiSinhVien();
   print("----------------------");
   // Bài tập quản lý đơn bán hàng
-  // quanLiDonHang();
-  var a = 3.16;
-  print(a.toStringAsFixed(2));
+  quanLiDonHang();
 }
 
 void quanLiSinhVien() {
